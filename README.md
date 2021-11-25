@@ -1,4 +1,4 @@
-### Hi there 👋
+[](https://raw.githubusercontent.com/zajrex/zajrex/master/banner.png)
 
 ### Języki i Aplikacje:
 
