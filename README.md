@@ -1,4 +1,4 @@
-[](https://raw.githubusercontent.com/zajrex/zajrex/master/banner.png)
+[![](https://raw.githubusercontent.com/zajrex/zajrex/master/banner.png)](https://github.com/zajrex)
 
 ### Języki i Aplikacje:
 
