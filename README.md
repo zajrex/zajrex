@@ -1,5 +1,7 @@
 [![](https://raw.githubusercontent.com/zajrex/zajrex/master/banner.png)](https://github.com/zajrex)
 
+<h1>Hi, I'm <a href="https://github.com/zajrex">zajrex</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
 ### Języki i Aplikacje:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
