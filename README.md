@@ -18,4 +18,25 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=for-the-badge&logo=Express.JS) 
+![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=for-the-badge&logo=Express.JS)
+
+
+# 👦🏻 About me
+I'm young polish developer, who is dynamically developing in new technologies! I build pages, discord bots and many more projects! Still learning and discovering new stuff!
+
+# 🔧 Technologies
+Technologies that I use:
+
+<a><img src="https://img.shields.io/badge/javascript-HexColor?style=for-the-badge&logo=javascript&color=F7DF1E&logoColor=black"/></a>
+<a><img src="https://img.shields.io/badge/node.js-HexColor?style=for-the-badge&logo=node.js&color=339933&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/php-HexColor?style=for-the-badge&logo=php&color=777BB4&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/json-HexColor?style=for-the-badge&logo=json&color=000000&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/github-HexColor?style=for-the-badge&logo=github&color=181717&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/visual studio code-HexColor?style=for-the-badge&logo=visual-studio-code&color=007ACC&logoColor=white"/></a><br>
+<a><img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb"/></a><br>
+
+# 📞 Contact
+You can contact me using this: *(You can click this shield* 😉)
+
+<a href="https://discordapp.com/users/413770279739981826"><img src="https://img.shields.io/badge/discord-HexColor?style=for-the-badge&logo=Discord&color=748cd7&logoColor=white"/></a>
+
